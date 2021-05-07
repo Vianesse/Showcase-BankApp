@@ -1,4 +1,4 @@
-# Showcase - see showcase video in main
+# Showcase - see showcase video in main and if interested in the code, please, send request.
 Project-Showcase
 USF Coding Bootcamp Certificate - Two Projects Showcase
 
